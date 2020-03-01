@@ -1,0 +1,10 @@
+.classpath
+.project
+target/
+bin/
+.settings/
+.idea/
+*.iml
+.swagger-codegen/
+src/main/java/**/infrastructure/rest/spring/spec/
+src/main/java/**/infrastructure/rest/spring/dto/
