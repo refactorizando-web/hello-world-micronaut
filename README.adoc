@@ -1,0 +1,27 @@
+= Micronaut Ejemplo
+
+Este es un ejemplo básico de un hello world con Micronaut.
+
+El objetivo básico del dejemplo es mostrar un controlador simple que devuelve un nombre
+
+== ¿Cómo funciona?
+
+Escribir en el navegador
+
+```
+http://localhost:8080/hello/name
+
+```
+
+y el navegador responderá con el "name" introducido
+
+== ¿Cómo arrancarlo?
+
+Se puede arrancar desde el IDE elegido directmente ejecutando la clase Application o:
+
+```
+java -jar hello-world.jar
+```
+
+
+
